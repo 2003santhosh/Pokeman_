@@ -1,4 +1,4 @@
-The following stpes should br ran in the terminal
+The following stpes should be ran in the terminal
 
 STEP 1 - cd backend
 
